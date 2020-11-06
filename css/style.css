@@ -1,3 +1,31 @@
 body {
     font-family: sans-serif;
 }
+
+
+/* styling */
+.app-container {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    color: dodgerblue;
+}
+
+img {
+    width: 300px;
+    margin: auto;
+}
+
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: inline;
+}
